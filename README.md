@@ -1,6 +1,7 @@
 # 港澳新导师信息库 (Prof-List for CN Students)
 
 [![LICENSE](https://img.shields.io/badge/license-CC--BY--4.0-blue.svg)](LICENSE)
+[![GitHub contributors](https://img.shields.io/github/contributors/YOUR_USERNAME/YOUR_REPO_NAME.svg)](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/graphs/contributors)
 
 这是一个开源项目，旨在为中国学生（尤其是受10043等政策影响的学生）提供一个集中的、可更新的香港、澳门、新加坡等地区的导师信息数据库。
 
@@ -14,6 +15,29 @@
 
 * 你可以在线浏览、筛选和搜索所有信息。
 * 我们强烈建议你使用此表格的“备注”列来获取关键的申请信息。
+
+##  coverage: 覆盖范围 (Currently Included)
+**[请根据你的表格内容，手动更新以下列表]**
+
+目前数据库中主要包含以下地区的院校（请贡献者帮忙持续添加！）：
+
+* **🇭🇰 香港 (Hong Kong):**
+    * 香港科技大学 (HKUST / HKUST-GZ)
+    * 香港理工大学 (PolyU)
+    * 香港大学 (HKU)
+    * 香港中文大学 (CUHK)
+    * *（更多...）*
+
+* **🇲🇴 澳门 (Macau):**
+    * 澳门大学 (UM)
+    * *（更多...）*
+
+* **🇸🇬 新加坡 (Singapore):**
+    * *（例如：新加坡国立大学 (NUS) ...）*
+
+*（此列表依赖社区贡献更新）*
+
+---
 
 ## 为什么这个项目需要你？
 
@@ -30,4 +54,11 @@
 
 你不必懂 Git 或编程。你只需要在 Google Sheet 中使用“**建议模式**”来提交你的修改，维护者审核通过后即可生效。
 
-详细的提交流程，
+详细的提交流程，请**务必阅读**我们的 **[贡献指南 (CONTRIBUTING.md)](CONTRIBUTING.md)**。
+
+## 数据结构
+表格包含 8 个关键字段：
+`地区`, `学校`, `老师`, `大方向`, `职称`, `细化方向`, `主页`, `备注 (Notes)`
+
+## 许可证
+本项目采用 [CC-BY-4.0](LICENSE) 许可协议。
