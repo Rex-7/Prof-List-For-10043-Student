@@ -4,6 +4,8 @@
 
 这是一个开源项目，旨在为中国学生（尤其是受10043等政策影响的学生）提供一个集中的、可更新的香港、澳门、新加坡等地区的导师信息数据库。
 
+**本项目也是由[这个表格](https://docs.google.com/spreadsheets/d/1vcEUT_5bXYFQgIzVKpsMQlYmV2xv15VtLXq2rvXZqRk/edit?gid=0#gid=0)启发而创建的，该表格包含了许多美国大学的老师及招生信息。**
+
 **本项目的数据核心是一个公开的 Google Sheet，它依赖社区的贡献来保持信息的“鲜活”。**
 
 ---
@@ -21,7 +23,7 @@
 * **易于检索 (Easy to Search)：** 使用 Google Sheet 作为载体，你可以**自由使用 `Ctrl+F` (或 `Cmd+F`)** 来搜索关键词（如 `CV`, `NLP`, `Database`），或使用 Google Sheet 的“**筛选**”功能按学校、职称等进行排序和过滤。
 * **信息鲜活 (Up-to-Date)：** 依赖社区驱动的“评论”贡献，**“备注”列**中的信息（如招生名额、政策友好度）会得到持续更新，比静态列表更有价值。
 
-##  coverage: 覆盖范围 (Currently Included)
+##  coverage: 覆盖范围 (Currently Included)
 
 目前数据库中主要包含以下地区的院校：
 
@@ -33,11 +35,9 @@
 
 * **🇲🇴 澳门 (Macau):**
     * 澳门大学 (UM)
- 
 
 **（待添加更多...）**
 * **🇸🇬 新加坡 (Singapore)**
-   
 
 ---
 
