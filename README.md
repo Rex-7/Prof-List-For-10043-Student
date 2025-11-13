@@ -3,7 +3,6 @@
 # 港澳新导师信息库 (Prof-List for CN Students)
 
 [![LICENSE](https://img.shields.io/badge/license-CC--BY--4.0-blue.svg)](LICENSE)
-[![GitHub contributors](https://img.shields.io/github/contributors/YOUR_USERNAME/YOUR_REPO_NAME.svg)](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/graphs/contributors)
 
 这是一个开源项目，旨在为中国学生（尤其是受10043等政策影响的学生）提供一个集中的、可更新的香港、澳门、新加坡等地区的导师信息数据库。
 
