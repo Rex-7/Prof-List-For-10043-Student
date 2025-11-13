@@ -9,20 +9,20 @@
 
 ## 如何使用？
 下载任意格式的prof list，可以把它上传给LLM工具并结合你自身的情况和研究兴趣进行询问，或者直接查询表格。
+
 ## 目录 (Table of Contents)
 
 ### 🇭🇰 香港 (Hong Kong)
-* [香港科技大学 (HKUST)]
-* [香港中文大学 (CUHK)]
-* [香港大学 (HKU)]
-* [香港理工大学 (PolyU)]
+* 香港科技大学 (HKUST)
+* 香港中文大学 (CUHK)
+* 香港大学 (HKU)
+* 香港理工大学 (PolyU)
 
 ### 🇲🇴 澳门 (Macau)
-* [澳门大学 (UM)](data/MO/UM.md)
+* 澳门大学 (UM)
 
 ### 🇸🇬 新加坡 (Singapore)
-* [新加坡国立大学 (NUS)](data/SG/NUS.md)
-* [南洋理工大学 (NTU)](data/SG/NTU.md)
+*（待添加...）*
 
 ---
 *（更多地区待添加...）*
